@@ -15,10 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 name: Y Abdul Baseer
+
 location: India 🇮🇳
+
 university: GITAM University
+
 degree: Undergraduate (B.Tech)
+
 status: Student by day, coder by night
+
 currently_learning: ["DSA", "Open Source"]
+
 looking_for: ["Internships", "Cool Projects"]
+
 fun_fact: My code works... I just don't know why 😅
