@@ -14,18 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-name: Y Abdul Baseer
+Hi, I'm Abdul Baseer 👋
 
-location: India 🇮🇳
+I am a student passionate about technology, programming, and electronics.
+I enjoy working on projects involving Python, c, embedded systems, and IoT devices like ESP32, Arduino and Raspberry pi.
 
-university: GITAM University
+I like building small projects, experimenting with new ideas, and exploring how software works with hardware systems like embedded devices.
 
-degree: Undergraduate (B.Tech)
+💡 Interests
 
-status: Student by day, coder by night
+🐍 Python Programming
 
-currently_learning: ["DSA", "Open Source"]
+⚙️ C Programming
 
-looking_for: ["Internships", "Cool Projects"]
+🔧 Embedded Systems & IoT
 
-fun_fact: My code works... I just don't know why 😅
+🧠 Problem Solving through Code
+
+💡 Learning new technologies and building projects
+
+🚀 Goal
+
+To continuously improve my programming skills and build useful projects that combine software and hardware.
