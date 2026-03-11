@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Abdul Baseer 👋
+I'm Abdul Baseer 👋
 
 I am a student passionate about technology, programming, and electronics.
 I enjoy working on projects involving Python, c, embedded systems, and IoT devices like ESP32, Arduino and Raspberry pi.
